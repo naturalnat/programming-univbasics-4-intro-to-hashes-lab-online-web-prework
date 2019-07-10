@@ -18,12 +18,14 @@ end
 
 def id_generator
   id_generator = {
-    id: 420
+    id: "420"
   }
 end
 
 def my_hash_creator(key, value)
-
+  my_hash = {
+    key 
+  }
 end
 
 def read_from_hash(hash, key)
