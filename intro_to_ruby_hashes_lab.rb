@@ -18,7 +18,7 @@ end
 
 def id_generator
   id_generator = {
-    id: "420"
+    id: 420
   }
 end
 
